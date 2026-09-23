@@ -1,12 +1,126 @@
-- 👋 Hi, I’m @Pablo-pro369
-- 👀 I’m interested in looking to learn and grow in the development area. Currently, I'm focused on Front-end, Python and other programming languages.
-- 🌱 I’m currently learning I'm learning web development with HTML, CSS and JavaScript."
-- 💞️ I’m looking to collaborate on "I'm looking to collaborate on beginner-friendly projects where I can learn and contribute. I'm particularly interested in web development, so any projects involving HTML, CSS, and JavaScript would be great. I'm eager to learn from others and improve my skills!"
-- 📫 How to reach me email: pabloprogramador369@gmail.com  INSTAGRAN: opabloigor23
+# 👋 Hi, I'm Pablo Ferreira
 
-- ⚡ Fun fact:student computer science
+💻 **Computer Science Student | Software Development | Backend | DevOps**
 
-<!---
-Pablo-pro369/Pablo-pro369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student from Brazil, currently building my skills in software development and exploring different areas of technology.
+
+My main interests are **backend development, software engineering, databases, DevOps, automation, and SaaS applications**.
+
+I enjoy learning by building real projects and continuously improving my understanding of how software works from development to deployment.
+
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science student — expected graduation: **June 2027**
+* 💻 Currently focusing on **Java, backend development and software engineering**
+* 🌐 Experience building web applications with **HTML, CSS and JavaScript**
+* 🗄️ Learning and working with **SQL and MySQL**
+* 🔧 Using **Git and GitHub** for version control
+* ☁️ Currently expanding my knowledge of **DevOps, infrastructure, cloud and automation**
+* 🚀 Interested in building and deploying **SaaS applications**
+* 📚 Always learning and looking for opportunities to improve through practical projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming
+
+* ☕ Java
+* 🐍 Python
+* 🌐 JavaScript
+* HTML5
+* CSS3
+
+### Backend & Databases
+
+* Java / JDBC
+* SQL
+* MySQL
+* REST APIs
+* Object-Oriented Programming
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+* Node.js / npm
+
+### Currently Learning
+
+* 🐧 Linux
+* 🐳 Docker
+* ☁️ Cloud Computing
+* 🔄 CI/CD
+* ⚙️ DevOps
+* 🏗️ Software Architecture
+* 🔐 Information Security
+
+---
+
+## 🚀 Projects
+
+### 💈 BarberPro
+
+A SaaS project focused on **barbershop management**.
+
+The project explores concepts such as:
+
+* Appointment management
+* Services and barbers
+* Products
+* Reports and metrics
+* User authentication
+* Database management
+* Payment integration
+* SaaS architecture
+
+---
+
+### 💰 BoletoSmart
+
+A SaaS concept focused on **billing and payment management for businesses**.
+
+Features include:
+
+* Payment tracking
+* Overdue billing
+* Interest calculation
+* Financial reports
+* Automated payment reminders
+* WhatsApp integration
+
+---
+
+## 🎯 Career Goals
+
+My long-term goal is to become a strong **software engineer**, with solid foundations in programming, computer science, backend development, infrastructure and DevOps.
+
+I'm particularly interested in opportunities involving:
+
+* Backend Development
+* Java Development
+* DevOps
+* Cloud Computing
+* Infrastructure
+* Software Engineering
+* SaaS
+* Automation
+
+I'm also interested in eventually working with **international technology companies** and contributing to real-world software projects.
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [pabloprogramador369@gmail.com](mailto:pabloprogramador369@gmail.com)
+📸 **Instagram:** [@opabloigor23](https://instagram.com/pablo_igor369)
+
+---
+
+⭐ I'm constantly learning, building projects and improving my skills.
+
+**Thanks for visiting my profile!**
+
